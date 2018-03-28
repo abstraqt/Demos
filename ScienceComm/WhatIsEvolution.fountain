@@ -4,30 +4,32 @@ This video is not trying to convince you that the Theory of Evolution is true, j
 
 Evolution is the change in heritable characteristics of organisms across generations.
 
-Every organism on Earth, to our knowledge, has sequences of DNA or RNA that form their genetic code. 
+Let’s look at why heritable characteristics change over generations.
 
-It really is code! It’s a sequence of information, that determines traits like whether you have wings, hair, or a really long neck.
+Every organism on Earth, to our knowledge, has sequences of DNA or RNA that form their genetic code.
 
-Traits can be morphological, like how a mouse is really small and can get even smaller by collapsing its skeleton; or biochemical, like adrenaline creating a fight or flight response.
+It really is code! Triple blocks of DNA represent a single amino acid, and amino acids combine to make proteins. Each gene encodes one protein.
 
-Sometimes they’re caused by a single gene, but most traits are caused by **constellations** of genes.
+Proteins determine heritable traits. These can be morphological, like how a mouse is really small and can get even smaller by collapsing its skeleton; or biochemical, like adrenaline creating a fight or flight response.
 
-Sometimes genes mutate, but we only have time to tell you three things about genetic mutation.
+Some traits are caused by a single gene, but most heritable traits are caused by **constellations** of genes because a single gene only encodes one protein.
 
-1) Not all mutations are heritable, especially ones that occur after conception. Only heritable mutations can affect evolution, because evolution happens over multiple generations.
+Sometimes genes mutate. Unfortunately we only have time to tell you three things about mutation. 
 
-2) Mutations can occur before or after an organism is born/ Most heritable mutations happen before conception.
+1) Not all mutations are heritable. And only heritable mutations can affect evolution, because evolution happens over multiple generations.
+
+2) Mutations can occur before or after an organism is born. Most heritable mutations happen before conception.
 
 3) Many, maybe all, heritable mutations are random.
 
-But if the mutations are random then so are the traits, so why isn’t everything just random?
+But if the mutations are random then why isn’t everything just random?
 
-Well. Remember that evolution is change over multiple generations, so if a trait makes an organism more likely to have descendants then that trait is more likely to get passed on. These are called adaptive traits. Things like white fur in an arctic environment+ or water retention in a desert++.
+Well, remember that evolution is change over multiple generations. So if a trait makes an organism more likely to have descendants then that trait is more likely to get passed on. These are called adaptive traits. Things like white fur in an arctic environment+ or water retention in a desert++.
 
 *+A: Polar Bear and Arctic Hare*
 *++A: Camel and Cactus*
 
-Not all traits are adaptive. Some are neutral, but some are maladaptive because they make an organism less likely to have descendants. For example, genetic infertility maladaptive in most contexts, because it makes reproduction less likely.
+Not all traits are adaptive. Some are neutral, but some are maladaptive. For example, genetic infertility is generally maladaptive, because it makes an organism less likely have descendants so the trait is not passed on.
 
 The process by which adaptive traits are selected for, while maladaptive traits become extinct is called natural selection.
 
@@ -38,17 +40,19 @@ Even within the same biome there are many niches, and this diversity helped crea
 
 *A: Life > Domain > Kingdom > Phylum > Class > Order > Family > Genus > Species > Organism > Molecular*
 
-The existence of niches implies that evolution is divergent, not progressive. It doesn’t make sense to say that something is more evolved than something else, apart from maybe measuring genetic distance moved from a selected ancestor, like the origin of the species or the first creatures to come out of the ocean.
+The existence of niches implies that evolution is divergent, not progressive. It doesn’t make sense to say that something is more evolved than something else, apart from maybe measuring the amount of genetic change since a particular ancestor.
 
 *A: Show tree of life. Cross out linear model from single-cell to man*
 
-Big changes, like forming a new species, usually take many generations, but rapid changes can occur. An extreme case of this happened in the Galapagos islands when a non-native finch mated with the local population, and created a new species. This is called species hybridization.
+=---
+Big changes, like forming a new species, usually take many generations, but rapid changes can occur. This happened in the Galapagos islands when a non-native finch mated with a local population, and created a new species. This is called species hybridization.
 
 Genetic differences can become so large that the organisms cannot produce fertile offspring with members of their ancestor species. 
 
 At this point it’s pretty clear that the organism is a different species. And this is actually a decent working definition for species but it falls apart in certain areas, like the species hybridization we saw earlier. 
 
 To be honest, there isn’t a single accepted definition for species. And even though Darwin called his work the Origin of the Species, evolution is more general than that, because it creates biodiversity in the entire Tree of Life. From the differences between domains, right down to the ones between organisms in the same species, and even the same organism changing over time.
+=---
 
 The Theory of Evolution is the central-organizing principle in mainstream biology. It’s the unifying concept. And the paradigm in which mainstream biology theories are constructed.
 
@@ -63,3 +67,9 @@ https://evolution.berkeley.edu/evolibrary/article/mutations_07
 
 *Hereditary and Acquired Mutations*
 https://ghr.nlm.nih.gov/primer/mutationsanddisorders/genemutation
+
+*How Much DNA in a Gene*
+http://www.genomenewsnetwork.org/resources/whats_a_genome/Chp1_4_2.shtml
+
+*Protein*
+https://ghr.nlm.nih.gov/primer/howgeneswork/protein
